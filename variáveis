@@ -1,0 +1,13 @@
+public class Main
+{
+    public static void main(String[] args) {
+       
+        int valor = 10;
+        int valor2 = 20;
+        int soma = 0;         
+        soma = valor + valor2; 
+        soma = soma + 5;       
+        
+        System.out.println("o valor é " + soma);
+    }
+}
